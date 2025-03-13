@@ -26,6 +26,7 @@
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" height="20"> PowerShell
   - <img src="https://developer.valvesoftware.com/w/images/7/71/Icon-CMD.png" alt="DOS Batch" height="20"> DOS Batch
 - 💻 **Languages I intend to learn:**
+  - <img src="https://pic.vsixhub.com/f0/36/ef1b801b-e6bd-4bc3-a4c9-ae841ae62116-logo.webp" alt="AutoHotkey v2" height="20"> Autohotkey 2.x
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"> Python ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/SuperBartimus?style=plastic&logo=freecodecamp)
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="20"> Flutter/Dart
 - 💞️ I’m looking to collaborate on ... well, nothing at the moment.  Can't say I'm skilled enough to be of any use to anyone.

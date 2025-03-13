@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperBartimus&theme=prussian&border_radius=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization --->
-
+<figure><embed src="https://wakatime.com/share/@Bartimus/868f38eb-eef9-48cd-9938-ecc9de14a8dc.svg"></embed></figure>
 <!---
 SuperBartimus/SuperBartimus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

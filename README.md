@@ -17,7 +17,8 @@
   </td>
   <td style="text-align: right; width: 300px;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperBartimus&theme=prussian&border_radius=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperBartimus&theme=prussian&border_radius=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperBartimus&show_icons=true&theme=radical)
 <!--- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization --->
   </td>
   </tr>

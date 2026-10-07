@@ -13,7 +13,6 @@
   <td style="text-align: right; width: 200px;">
 	<img src="https://img.shields.io/github/followers/SuperBartimus?style=plastic&logo=Github" alt="GitHub followers"><br>
 	<img src="https://img.shields.io/reddit/user-karma/combined/SuperBartimus?style=plastic&logo=reddit" alt="Reddit User Karma"><br>
-	<img src="https://img.shields.io/youtube/channel/views/UCT8mlz0lMKj8AWgcQ8Vn-Jw?style=plastic&logo=youtube" alt="YouTube Channel Views">
   </td>
   <td style="text-align: right; width: 300px;">
 
